@@ -1,11 +1,14 @@
 ### Hi, I'm Tim
 
-I'm a senior software engineer building production Python platforms and distributed systems. My independent projects explore how to operate AI agents, coordinate workflows with human approval, and evaluate agent behavior.
+I'm a senior software engineer building Python platforms, internal tools and automation that improve how teams develop and operate software.
 
-I like systems that are **autonomous but supervised**, properly tested, and honest about what they do and don't do yet.
+My independent AI work follows the same interest: improving agent workflows and the evaluation methods used to assess their reliability.
 
-**Selected projects are pinned below.**
+- **[Mimir](https://github.com/timyjsong/mimir):** a retired behavioral evaluation project, preserving the harness and lessons from testing coding-agent instructions.
+- **[Bifrost](https://github.com/timyjsong/bifrost):** tools for operating and supervising agent sessions.
+- **[EIDOS](https://github.com/timyjsong/eidos):** governed agent workflows with human approval gates and budget controls.
 
-**Core tools:** Python · TypeScript · SQL · Linux
+**Production tools:** Python · MongoDB · RabbitMQ/AMQP · Flask · Linux/systemd  
+**Independent projects also use:** TypeScript · PostgreSQL
 
-[Open-source contributions](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3Atimyjsong%20-user%3Atimyjsong&type=pullrequests)
+[Open-source contributions](https://github.com/search?q=is%3Apr%20is%3Apublic%20author%3Atimyjsong%20-user%3Atimyjsong&type=pullrequests) include Flask-Admin, Omnigent and Usage Monitor for Claude. Contributions include merged fixes and downstream adoption; individual PRs show their status.
