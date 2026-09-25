@@ -5,8 +5,8 @@ I'm a senior software engineer building Python platforms, internal tools and aut
 My independent AI work follows the same interest: improving agent workflows and the evaluation methods used to assess their reliability.
 
 - **[Mimir](https://github.com/timyjsong/mimir):** a retired behavioral evaluation project, preserving the harness and lessons from testing coding-agent instructions.
-- **[Bifrost](https://github.com/timyjsong/bifrost):** tools for operating and supervising agent sessions.
-- **[EIDOS](https://github.com/timyjsong/eidos):** governed agent workflows with human approval gates and budget controls.
+- **[Bifrost](https://github.com/timyjsong/bifrost):** a self-hosted dashboard for operating and supervising Claude Code sessions from a phone.
+- **[EIDOS](https://github.com/timyjsong/eidos):** a Python discovery engine with human approval gates, budget controls and a runnable demo.
 
 **Production tools:** Python · MongoDB · RabbitMQ/AMQP · Flask · Linux/systemd  
 **Independent projects also use:** TypeScript · PostgreSQL
